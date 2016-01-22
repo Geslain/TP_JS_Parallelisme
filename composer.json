@@ -1,0 +1,10 @@
+{
+    "name": "vendor/ges",
+    "authors": [
+        {
+            "name": "geslain",
+            "email": "geslain.dahan@gmail.com"
+        }
+    ],
+    "require": {}
+}
